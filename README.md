@@ -41,7 +41,7 @@ root
 #### What we achieved using it?
 
 - **Layered Structure:** 
-	We have multiple layers like Domain, Application, Infrastructure, and Presentation.
+	We have multiple layers like Domain, Application, Infrastructure, and Consumers.
 - **Dependency Inversion:** 
 	Inner layers do not depend on outer layers. instead, dependencies point inward.
 - **Separation of Concerns:** 
