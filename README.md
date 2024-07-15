@@ -33,7 +33,6 @@ root
 	└─ core
 		│  └─ OTS.Application
 		│  └─ OTS.Domain
-		|
 	└─ OTS.Infrastructure
 	└─ [OTS_Onion.sln]
 	
